@@ -24,6 +24,9 @@ This repository documents my journey of practicing API calls — covering GET, P
 api-practice/
 ├── get_requests.py
 ├── post_requests.py
+├── put_requests.py
+├── patch_requests.py
+├── delete_requests.py
 ├── auth_requests.py
 ├── query_params.py
 └── README.md
@@ -45,7 +48,7 @@ api-practice/
 
 3. Run any script:
 ```bash
-   python get_requests.py
+   python file_name.py
 ```
 
 ---
