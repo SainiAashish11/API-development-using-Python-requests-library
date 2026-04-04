@@ -1,12 +1,12 @@
 # 🌐 API Practice — Python Requests Library
 
-A personal collection of API interaction scripts written in Python using the `requests` library — built as hands-on proof of work while learning REST API concepts.
+A personal collection of API interaction scripts written in Python using the `requests` library - built as hands-on proof of work while learning HTTP and API concepts.
 
 ---
 
 ## 📌 About
 
-This repository documents my journey of practicing API calls — covering GET, POST, PUT, DELETE requests, handling headers, authentication, query parameters, and parsing JSON responses.
+This repository documents my journey of practicing API calls — covering GET, POST, PUT, DELETE, PATCH requests, handling headers, authentication, query parameters and parsing JSON responses.
 
 ---
 
